@@ -1,3 +1,8 @@
-# My Awesome Book
+# Gitbook 101
+## An Introductory Guide for Using Gitbook
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Gitbook is a tool that integrates with GitHub for publishing Markdown files in a responsive, easily updatable, and maintainable format.
+
+This Gitbook serves as a repository for understanding how to use Gitbook, specific quirks and their workarounds, and plugins. 
+
+A good portion of this work is on plugins: which ones work, how to configure them, special syntax needed, and, of course, the plugin installation process.
