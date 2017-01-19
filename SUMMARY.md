@@ -1,3 +1,8 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+## Introduction
+* [Introduction](README.md)
+
+## Plugins
+* [Edit This Page](edit-this-page.md)
+
