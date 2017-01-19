@@ -5,4 +5,5 @@
 
 ## Plugins
 * [Edit This Page](edit-this-page.md)
+* [Git Author](git-author.md)
 
